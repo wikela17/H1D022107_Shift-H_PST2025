@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../SCAN I2C"
+		},
+		{
+			"name": "LED IOT",
+			"path": "../LED IOT"
+		},
+		{
+			"name": "H1D022107-Wike Laelatunuji-Responsi-PST-ShiftH-PaketE",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
